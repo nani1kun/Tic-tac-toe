@@ -1,6 +1,6 @@
 import pygame
 import sys
-
+print("abob")
 pygame.init()
 
 width, height = 300, 300
